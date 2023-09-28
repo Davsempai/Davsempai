@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Davsempai
+- 👋 Hi, I’m @DavBinary
 - 👀 I’m interested in ...Web developer 
 - 🌱 I’m currently learning ...Django for Backend 
 - 💞️ I’m looking to collaborate on ...Web Projects
