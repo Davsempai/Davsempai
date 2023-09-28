@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Davsempai
-- 👀 I’m interested in ...Android developer 
-- 🌱 I’m currently learning ...Kotlin for Android 
-- 💞️ I’m looking to collaborate on ...Android Projects
+- 👀 I’m interested in ...Web developer 
+- 🌱 I’m currently learning ...Django for Backend 
+- 💞️ I’m looking to collaborate on ...Web Projects
 - 📫 How to reach me ...+5359065811
 
 <!---
